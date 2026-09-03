@@ -1,0 +1,13 @@
+python-dotenv>=1.0.0
+streamlit>=1.32.0
+
+langchain>=0.2.6
+langchain-community>=0.2.6
+langgraph>=0.1.15
+
+chromadb>=0.5.3
+sentence-transformers>=2.2.2
+
+openai>=1.0.0
+pypdf>=4.2.0
+
